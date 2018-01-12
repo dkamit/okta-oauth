@@ -1,5 +1,3 @@
-// add this file to .gitignore
-
 module.exports = {
   okta: {
     audience: "",
